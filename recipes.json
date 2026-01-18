@@ -1,0 +1,84 @@
+{
+    "recipe_name": "Chocolate Chip Cookies",
+    "notes": "A classic cookie recipe",
+    "ingredients": [
+        {
+            "name" : "butter",
+            "amounts" : {
+                "amount": "1",
+                "unit": "lb"
+            },
+            "notes": "softened"
+        },
+        {
+            "name": "Brown Sugar",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "Cups"
+            }
+        },
+        {
+            "name": "White Sugar",
+            "amounts": {
+                "amount": "1",
+                "unit": "Cup"
+            }
+        },
+        {
+            "name": "Eggs",
+            "amounts": {
+                "amount": "3",
+                "unit": "each"
+            }
+        },
+        {
+            "name": "Vanilla",
+            "amounts": {
+                "amount": "2",
+                "unit": "teaspoons"
+            }
+        },
+        {
+            "name": "Salt",
+            "amounts": {
+                "amount": "1/2",
+                "unit": "teaspoon"
+            }
+        },
+        {
+            "name": "Baking Soda",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "teaspoon"
+            }
+        },
+        {
+            "name": "Flour",
+            "amounts": {
+                "amount": "5",
+                "unit": "Cups"
+            }
+        },
+        {
+            "name": "Semi-Sweet Chocolate Chips",
+            "amounts": {
+                "amount": "2",
+                "unit": "Cups"
+            }
+        },
+        {
+            "name": "Shredded Coconut",
+            "amounts": {
+                "amount": "1-2",
+                "unit": "Cup"
+            }
+        }
+    ],
+
+    "Steps": [
+        "1.Cream the butter and sugar together, then beat in the eggs and vanilla.",
+        "2.Mix in salt, soda and flour.",
+        "3.Add chocolate chips and coconut.",
+        "4.Bake 8-10 minutes at 350 F"
+    ]
+}
